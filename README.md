@@ -5,9 +5,7 @@
 
 ---
 
-### Integrantes del equipo de trabajo
-- **Sandra Milena Hoyos**  
-  Email: [sandramilena.hoyos@udea.edu.co](mailto:sandramilena.hoyos@udea.edu.co)
+### Integrante del equipo de trabajo
 - **Oscar Lopez Peñata**  
   Email: [oscar.lopezp@udea.edu.co](mailto:oscar.lopezp@udea.edu.co)
 
